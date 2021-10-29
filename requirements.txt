@@ -1,0 +1,4 @@
+databases==0.5.3
+facebook_scraper==0.2.48
+fastapi==0.70.0
+uvicorn==0.15.0
